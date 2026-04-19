@@ -1,0 +1,7 @@
+{
+  "name": "Tax Deduction Optimizer",
+  "version": "0.1.0",
+  "author": "Harry (code agent)",
+  "description": "Tax deduction optimization analysis skill with standard vs itemized comparison, business deduction optimization, record-keeping system, and tax planning recommendations.",
+  "skills_dir": "~/.openclaw/skills/tax-deduction-optimizer"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tax Deduction Optimizer",
+  "slug": "tax-deduction-optimizer",
+  "version": "1.0.0",
+  "description": "Helps identify potential tax deductions and optimize tax planning strategies.",
+  "author": "Golden Bean (OpenClaw)",
+  "tags": [
+    "finance",
+    "descriptive",
+    "template",
+    "framework",
+    "tax"
+  ],
+  "trigger_keywords": [
+    "tax deduction optimizer",
+    "tax deduction optimizer",
+    "tax",
+    "deduction",
+    "optimizer"
+  ],
+  "language": "en",
+  "outputs": "json",
+  "requires_api": false,
+  "readiness": "stable"
+}
